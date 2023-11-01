@@ -9,12 +9,11 @@ const TEMPLATE_CONFIG = [
       **{{date.DATA}}**
     
     
-      下个休息日：
       {{holidaytts.DATA}}
       
-      ---
+      --
       
-      城市：{{city.DATA}}
+      {{city.DATA}}
       
       天气：{{weather.DATA}}
       
@@ -24,6 +23,7 @@ const TEMPLATE_CONFIG = [
       
       风级: {{wind_scale.DATA}}
 
+      -
       
       {{comprehensive_horoscope.DATA}}
       
