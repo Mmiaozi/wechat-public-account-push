@@ -35,7 +35,7 @@ const USER_CONFIG = {
     },
   ],
 
-  ],
+  
 
 }
 
