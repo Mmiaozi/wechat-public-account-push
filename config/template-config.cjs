@@ -3,7 +3,7 @@ const TEMPLATE_CONFIG = [
   {
     id: '0001',
 
-    title: '亲爱的喵喵子, 晚上好呀',
+    title: '亲爱的喵喵子, 早上好呀',
     
     desc: `
       
