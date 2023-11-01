@@ -1,3 +1,4 @@
+
 /* eslint-disable */
 
 /**
@@ -9,8 +10,8 @@ const USER_CONFIG = {
 
   USE_PASSAGE: 'push-deer',
 
-  PROVINCE: '山东省',
-  CITY: '泰安市',
+  PROVINCE: '山东',
+  CITY: '泰安',
 
   USERS: [
     {
@@ -22,6 +23,7 @@ const USER_CONFIG = {
       useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '06-13',
+      horoscopeDateType: '今日',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
@@ -41,7 +43,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'PDU26307TAlMvnqGLbE2nBECfzZp5EfdDtUPimt0w',
     }
   ],
 
