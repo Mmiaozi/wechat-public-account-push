@@ -9,7 +9,7 @@ const TEMPLATE_CONFIG = [
       **{{date.DATA}}**
     
     
-      //下个休息日：
+      下个休息日：
       {{holidaytts.DATA}}
       
       ---
