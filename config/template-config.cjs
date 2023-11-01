@@ -8,7 +8,7 @@ const TEMPLATE_CONFIG = [
     desc: `
       **{{date.DATA}}**
     
-    
+  
       {{holidaytts.DATA}}
       
       --
