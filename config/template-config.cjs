@@ -2,11 +2,12 @@
 const TEMPLATE_CONFIG = [
   {
     id: '0001',
-    title: '亲爱的喵喵子, 早上好',
     desc: `
       **{{date.DATA}}**
-      
-      下个休息日：{{holidaytts.DATA}}
+    title: '亲爱的喵喵子, 晚上好呀',
+    
+      //下个休息日：
+      {{holidaytts.DATA}}
       
       ---
       
@@ -19,12 +20,11 @@ const TEMPLATE_CONFIG = [
       风向: {{wind_direction.DATA}}
       
       风级: {{wind_scale.DATA}}
+
       
       {{comprehensive_horoscope.DATA}}
       
       ---
-      
-      今天是我们相识的第{{love_day.DATA}}天
       
       {{birthday_message.DATA}}
       
