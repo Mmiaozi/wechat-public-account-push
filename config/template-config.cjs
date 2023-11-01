@@ -2,9 +2,12 @@
 const TEMPLATE_CONFIG = [
   {
     id: '0001',
+
+    title: '亲爱的喵喵子, 晚上好呀',
+    
     desc: `
       **{{date.DATA}}**
-    title: '亲爱的喵喵子, 晚上好呀',
+    
     
       //下个休息日：
       {{holidaytts.DATA}}
@@ -36,7 +39,7 @@ const TEMPLATE_CONFIG = [
     `
   },
   {
-    id: '0002',
+    id: '0001',
     title: '推送完成提醒',
     desc: `
       服务器信息：{{post_time_zone.DATA}} {{post_time.DATA}}
