@@ -31,8 +31,6 @@ const USER_CONFIG = {
         },
        
       ],
-
-      openUrl: 'https://m.weibo.cn/p/106003type=25&t=3&disable_hot=1&filter_type=realtimehot',
      
     },
   ],
