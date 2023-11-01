@@ -7,7 +7,7 @@ const TEMPLATE_CONFIG = [
     
     desc: `
       
-      **今天是{{date.DATA}}**
+      **现在是{{date.DATA}}**
     
   
       {{holidaytts.DATA}}
