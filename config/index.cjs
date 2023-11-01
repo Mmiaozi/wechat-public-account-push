@@ -7,12 +7,6 @@
  */
 const USER_CONFIG = {
 
-  // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
-
-  // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
-
   USE_PASSAGE: 'push-deer',
 
   PROVINCE: '山东省',
@@ -33,8 +27,6 @@ const USER_CONFIG = {
         {
           type: '*生日', name: '喵喵子', year: '2000', date: '06-13',
         },
-        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-      
        
       ],
      
@@ -43,7 +35,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: '0002',
 
   CALLBACK_USERS: [
     {
