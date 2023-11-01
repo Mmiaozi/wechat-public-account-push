@@ -3,10 +3,10 @@ const TEMPLATE_CONFIG = [
   {
     id: '0001',
 
-    //title: '',
+    title: '亲爱的喵喵子, 晚上好呀',
     
     desc: `
-      亲爱的喵喵子, 晚上好呀
+      
       **{{date.DATA}}**
     
   
